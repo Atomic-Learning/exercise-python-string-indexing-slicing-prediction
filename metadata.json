@@ -1,0 +1,20 @@
+{
+    "title": "Exercise: String Indexing and Slicing Prediction",
+    "slug": "exercise-python-string-indexing-slicing-prediction",
+    "description": "Predict the output of string indexing and slicing operations before running code. Work with positive indices, negative indices, and various step values.",
+    "authors": [
+        "chris-cooling"
+    ],
+    "tags": [
+        "python"
+    ],
+    "duration": 10,
+    "prerequisites": [
+        "python-strings-indexing",
+        "python-strings-slicing",
+        "python-comments"
+    ],
+    "related": [
+        "sample-solution-python-string-indexing-slicing-prediction"
+    ]
+}
