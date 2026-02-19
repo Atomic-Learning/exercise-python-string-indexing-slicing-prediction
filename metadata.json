@@ -11,7 +11,7 @@
     "duration": 10,
     "prerequisites": [
         "python-indexing",
-        "python-strings-slicing",
+        "python-slicing",
         "python-comments"
     ],
     "related": [
