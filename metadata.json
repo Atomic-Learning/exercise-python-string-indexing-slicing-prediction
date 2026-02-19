@@ -10,7 +10,7 @@
     ],
     "duration": 10,
     "prerequisites": [
-        "python-strings-indexing",
+        "python-indexing",
         "python-strings-slicing",
         "python-comments"
     ],
