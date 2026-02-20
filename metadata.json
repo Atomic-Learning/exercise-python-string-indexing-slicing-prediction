@@ -8,7 +8,7 @@
     "tags": [
         "python"
     ],
-    "duration": 10,
+    "duration": 5,
     "prerequisites": [
         "python-indexing",
         "python-slicing",
