@@ -1,6 +1,6 @@
 In this exercise, you'll strengthen your understanding by predicting output before executing code.
 
-1. For each operation below, <strong>predict what you think the output will be</strong> before running the code
+1. For each operation below, **predict what you think the output will be** before running the code
 2. Write your predictions by completing the comment
 3. Run each code cell in order and check your predictions
 4. If you got it wrong, try to understand why before moving on.
